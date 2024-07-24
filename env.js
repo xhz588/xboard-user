@@ -1,5 +1,5 @@
 // API地址
-window.routerBase = 'https://cloudcat.top'
+window.routerBase = 'https://cloudcat.top/'
 window.settings = {
   // 站点名称
   title: '云猫机场-免费公益',
